@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd yellow-object1-poly/textured_0_hxLR1irJ.jpg
+map_Kd textured_0_hxLR1irJ.jpg
 
 newmtl textured_0.001
 Ns 1.000002
@@ -21,4 +21,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd yellow-object2-poly/textured_0_duyXqDEw.jpg
+map_Kd textured_0_duyXqDEw.jpg
