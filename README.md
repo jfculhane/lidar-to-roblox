@@ -8,5 +8,5 @@ The video refrences are out of the polycam software. There are two types:
 - Path walks through the model 
 
 I did not name the indiviual .obj or .mtl files for now.
- 
-http://tactic-ux.com
+
+1-5-2022 - Added a cleaned up blender file of blue-machine model. Still need to lower the number of verticies < 10k 
