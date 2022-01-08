@@ -9,8 +9,41 @@ The video refrences are out of the polycam software. There are two types:
 
 I did not name the indiviual .obj or .mtl files for now.
 
-Blue Machine Path video reference: https://drive.google.com/file/d/1b1MVp4dXVa2Yg75RLNWvzbnUCAboJcVm/view?usp=sharing
+----------------------------------------------------
 
-Blue Machine Orbit video reference: https://drive.google.com/file/d/1x05Gbr9GMYq8Ms_LnRDb5cUxY30SHQdV/view?usp=sharing
+References and Tutorials:
+
+Blender download
+https://www.blender.org/download/
+
+Where To Find Poly Count Statistics In Blender? | How do I show Polycount in blender?
+https://www.youtube.com/watch?v=Uy0byuY_m2E
+
+Blender Tutorial - Reduce polygon count with Decimate Modifier
+https://www.youtube.com/watch?v=nKTJlv1doDo
+
+How do I import .obj files into roblox studio? 
+https://devforum.roblox.com/t/how-do-i-import-obj-files-into-roblox-studio/1097080
+
+----------------------------------------------------
+
+Chock vid references:
+Path:
+https://drive.google.com/file/d/1vOwZJ-zkq4WuSZ7qanBQ6Zu9WSasimEB/view?usp=sharing
+
+Orbit:
+https://drive.google.com/file/d/1zqrOBDlXNBR7YZwqyjpnoADxcFJFtDx3/view?usp=sharing
+
+Blue Machine Video References:
+Path:
+ttps://drive.google.com/file/d/1b1MVp4dXVa2Yg75RLNWvzbnUCAboJcVm/view?usp=sharing
+
+Orbit:
+https://drive.google.com/file/d/1x05Gbr9GMYq8Ms_LnRDb5cUxY30SHQdV/view?usp=sharing
+
+----------------------------------------------------
+
+Log:
 
 1-5-2022 - Added a cleaned up blender file of blue-machine model. Still need to lower the number of verticies < 10k 
+1-8-2022 - Added vid references and tutorials Added videos to Chock model which is smaller and easier to test. 
