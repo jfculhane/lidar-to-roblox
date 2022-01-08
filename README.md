@@ -36,7 +36,7 @@ https://drive.google.com/file/d/1zqrOBDlXNBR7YZwqyjpnoADxcFJFtDx3/view?usp=shari
 
 Blue Machine Video References:
 Path:
-ttps://drive.google.com/file/d/1b1MVp4dXVa2Yg75RLNWvzbnUCAboJcVm/view?usp=sharing
+https://drive.google.com/file/d/1b1MVp4dXVa2Yg75RLNWvzbnUCAboJcVm/view?usp=sharing
 
 Orbit:
 https://drive.google.com/file/d/1x05Gbr9GMYq8Ms_LnRDb5cUxY30SHQdV/view?usp=sharing
