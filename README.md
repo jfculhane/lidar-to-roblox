@@ -46,4 +46,5 @@ https://drive.google.com/file/d/1x05Gbr9GMYq8Ms_LnRDb5cUxY30SHQdV/view?usp=shari
 Log:
 
 1-5-2022 - Added a cleaned up blender file of blue-machine model. Still need to lower the number of verticies < 10k 
+
 1-8-2022 - Added vid references and tutorials Added videos to Chock model which is smaller and easier to test. 
