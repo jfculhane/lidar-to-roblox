@@ -8,9 +8,12 @@ The video refrences are out of the polycam software. There are two types:
 - Orbit moves around the scene or object
 - Path walks through the model 
 
-You can download the reduced or decimated test scans from two expample folders
+You can download the reduced or decimated test scans from two expample folders:
+
 blue-machine10k
+
 chock10k
+
 To see examples in Roblox ping my username tongueoftheviper on roblox and I'll send an invite. 
 
 ----------------------------------------------------
