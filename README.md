@@ -48,3 +48,5 @@ Log:
 1-5-2022 - Added a cleaned up blender file of blue-machine model. Still need to lower the number of verticies < 10k 
 
 1-8-2022 - Added vid references and tutorials Added videos to Chock model which is smaller and easier to test. 
+
+1-9-2022 - Added .obj sample files at 10k which import into Roblox. See to-roblox folder. 
