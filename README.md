@@ -14,7 +14,7 @@ blue-machine10k
 
 chock10k
 
-To see examples in Roblox ping my username tongueoftheviper on roblox and I'll send an invite. 
+To see examples in Roblox ping my username @Tongueoftheviper on roblox and I'll send an invite. You need to have an account.
 
 ----------------------------------------------------
 
