@@ -2,12 +2,16 @@
 Experiments converting 3d Mac Iphone LiDAR scans to Roblox Game engine. 
 
 See lidar-to-roblox-overview.png for recipe.
+I'll post a video walkthough soon. 
 
 The video refrences are out of the polycam software. There are two types:
 - Orbit moves around the scene or object
 - Path walks through the model 
 
-I did not name the indiviual .obj or .mtl files for now.
+You can download the reduced or decimated test scans from two expample folders
+blue-machine10k
+chock10k
+To see examples in Roblox ping my username tongueoftheviper on roblox and I'll send an invite. 
 
 ----------------------------------------------------
 
